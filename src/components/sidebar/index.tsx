@@ -51,16 +51,16 @@ const SideBar = async ({ id, type }: Props) => {
         defaultOpen={true}
         details={details}
         id={id}
-        sideBarLogo={sideBarLogo}
-        sideBarOpt={sidebarOpt}
+        sidebarLogo={sideBarLogo}
+        sidebarOpt={sidebarOpt}
         user={user}
         subAccounts={subaccounts}
       />
       <MenuOptions
         details={details}
         id={id}
-        sideBarLogo={sideBarLogo}
-        sideBarOpt={sidebarOpt}
+        sidebarLogo={sideBarLogo}
+        sidebarOpt={sidebarOpt}
         user={user}
         subAccounts={subaccounts}
       />
